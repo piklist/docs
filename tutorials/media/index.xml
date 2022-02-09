@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Piklist Documentation</title>
-    <link>https://piklist.github.io/Piklist-Documentation/tutorials/media/</link>
+    <link>https://piklist.github.io/docs/tutorials/media/</link>
     <description>Recent content in Media on Piklist Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://piklist.github.io/Piklist-Documentation/tutorials/media/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://piklist.github.io/docs/tutorials/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add fields to Media items</title>
-      <link>https://piklist.github.io/Piklist-Documentation/tutorials/media/add-fields-to-media/</link>
+      <link>https://piklist.github.io/docs/tutorials/media/add-fields-to-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://piklist.github.io/Piklist-Documentation/tutorials/media/add-fields-to-media/</guid>
+      <guid>https://piklist.github.io/docs/tutorials/media/add-fields-to-media/</guid>
       <description>Description Piklist makes it radically easy to add meta-boxes and fields to your media items. In this tutorial, we will create a meta-box that includes three fields, select, text and ColorPicker, for standard posts.
   New to Piklist?    Before you start this tutorial:  Install Piklist like you would any other WordPress plugin. Decide if you are going to add the code in this tutorial to your custom plugin or your theme.</description>
     </item>

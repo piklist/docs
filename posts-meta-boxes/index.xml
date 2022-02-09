@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post Types / Meta-boxes on Piklist Documentation</title>
-    <link>https://piklist.github.io/Piklist-Documentation/posts-meta-boxes/</link>
+    <link>https://piklist.github.io/docs/posts-meta-boxes/</link>
     <description>Recent content in Post Types / Meta-boxes on Piklist Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://piklist.github.io/Piklist-Documentation/posts-meta-boxes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://piklist.github.io/docs/posts-meta-boxes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

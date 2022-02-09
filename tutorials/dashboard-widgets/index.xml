@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dashboard Widgets on Piklist Documentation</title>
-    <link>https://piklist.github.io/Piklist-Documentation/tutorials/dashboard-widgets/</link>
+    <link>https://piklist.github.io/docs/tutorials/dashboard-widgets/</link>
     <description>Recent content in Dashboard Widgets on Piklist Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://piklist.github.io/Piklist-Documentation/tutorials/dashboard-widgets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://piklist.github.io/docs/tutorials/dashboard-widgets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a Dashboard Widget to show an RSS Feed.</title>
-      <link>https://piklist.github.io/Piklist-Documentation/tutorials/dashboard-widgets/creating-a-dashboard-widget-to-show-rss-feed/</link>
+      <link>https://piklist.github.io/docs/tutorials/dashboard-widgets/creating-a-dashboard-widget-to-show-rss-feed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://piklist.github.io/Piklist-Documentation/tutorials/dashboard-widgets/creating-a-dashboard-widget-to-show-rss-feed/</guid>
+      <guid>https://piklist.github.io/docs/tutorials/dashboard-widgets/creating-a-dashboard-widget-to-show-rss-feed/</guid>
       <description>Description Piklist makes it super easy to create Dashboard Widgets in WordPress. This way you can concentrate on your widget code, and let Piklist do the hard part.
   New to Piklist?    Before you start this tutorial:  Install Piklist like you would any other WordPress plugin. Decide if you are going to add the code in this tutorial to your custom plugin or your theme. This will define how to setup your Piklist folder structure.</description>
     </item>

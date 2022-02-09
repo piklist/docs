@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin Notices on Piklist Documentation</title>
-    <link>https://piklist.github.io/Piklist-Documentation/admin-notices/</link>
+    <link>https://piklist.github.io/docs/admin-notices/</link>
     <description>Recent content in Admin Notices on Piklist Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://piklist.github.io/Piklist-Documentation/admin-notices/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://piklist.github.io/docs/admin-notices/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
